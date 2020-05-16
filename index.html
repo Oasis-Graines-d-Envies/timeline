@@ -25,9 +25,23 @@
       <!-- var data = new Firebase("https://oge-timeline.firebaseio.com/"); -->
       <!-- gantt.firebase({tasks: data.child("tasks"), links: data.child("links")}); -->
 
-      var data = require('./data.json')
+      gantt.parse({
+        data: [
+          {id: 1, text: "Foncier",  parent:0, progress: 0, open: true},
+          {id: 2, text: "Acquerir Le milloret", parent:1, progress: 0, open: true},
+          {id: 3, text: "Signature du compromis", start_date: "2020-06-01", duration:0, parent:2, progress: 0, open: true},
+          {id: 4, text: "Architecte realise les plans et les donnees techniques a fournir aux entreprises", start_date: "2020-06-01", duration: 30, parent: 2, progress: 0},
+          {id: 5, text: "Demande officielle du permis de construire", start_date: "2020-07-01", duration:90, parent:2, progress: 0},
 
-      gantt.parse(data);
+          {id: 100, text: "Agriculture", start_date: "2021-01-01", duration:100, parent:0, progress: 0, open: true},
+          {id: 101, text: "Achat et installation des serres", start_date: "2021-01-01", duration:30, parent:100, progress: 0},
+        ],
+        links:[
+          {id:1, source:4, target:5, type:"0"},
+          <!-- {id:2, source:3, target:4, type:"0"}, -->
+          <!-- {id:3, source:5, target:6, type:"0"} -->
+        ]
+      });
     </script>
   </body>
 
