@@ -1,0 +1,376 @@
+{
+  "links" : {
+    "-M7ScFu1GmK_f-PiYd1R" : {
+      "id" : "1589634462091",
+      "source" : "1589634462022",
+      "target" : "1589634462059",
+      "type" : "0"
+    },
+    "-M7SeRJhPXZ8MleJhl1v" : {
+      "id" : "1589635529227",
+      "source" : "1589635114267",
+      "target" : "1589635257683",
+      "type" : "0"
+    },
+    "-M7SmXBmjKaP6CXOGArL" : {
+      "id" : "1589635529236",
+      "source" : "1589635529235",
+      "target" : "1589635529228",
+      "type" : "0"
+    },
+    "-M7Smey_g86J2bMsPkcb" : {
+      "id" : "1589635529244",
+      "source" : "1589635529228",
+      "target" : "1589635529237",
+      "type" : "0"
+    },
+    "-M7SmtKqQairq1zutyhC" : {
+      "id" : "1589635529258",
+      "source" : "1589635529237",
+      "target" : "1589635529251",
+      "type" : "0"
+    },
+    "-M7SoTK2-rENAqRKOwvk" : {
+      "id" : "1589635529315",
+      "source" : "1589635529287",
+      "target" : "1589635529307",
+      "type" : "0"
+    },
+    "-M7SoVaFy5IIoXyrfFji" : {
+      "id" : "1589635529316",
+      "source" : "1589635529237",
+      "target" : "1589635529307",
+      "type" : "0"
+    },
+    "-M7SpN6G_nqMTefatEli" : {
+      "id" : "1589638234455",
+      "source" : "1589634462083",
+      "target" : "1589638234440",
+      "type" : "0"
+    },
+    "-M7SpNVAxUOZC5rneQoB" : {
+      "id" : "1589638234456",
+      "source" : "1589638234440",
+      "target" : "1589635114267",
+      "type" : "0"
+    },
+    "-M7SpxYiMBChSOAbD-pn" : {
+      "id" : "1589638234465",
+      "source" : "1589635257683",
+      "target" : "1589638234457",
+      "type" : "0"
+    },
+    "-M7Sq-n_SmZr3oBAHE_M" : {
+      "id" : "1589638234466",
+      "source" : "1589638234457",
+      "target" : "1589635529307",
+      "type" : "0"
+    },
+    "-M7SqqEP9c-22VkCg-DR" : {
+      "id" : "1589638234507",
+      "source" : "1589635257683",
+      "target" : "1589638234486",
+      "type" : "0"
+    },
+    "-M7SqrKPb-0q6uyYyjW4" : {
+      "id" : "1589638234508",
+      "source" : "1589635257683",
+      "target" : "1589638234500",
+      "type" : "0"
+    },
+    "-M7SrEl9e95DcvZ8PNL0" : {
+      "id" : "1589638234510",
+      "source" : "1589635529307",
+      "target" : "1589638234509",
+      "type" : "0"
+    },
+    "-M7SrFJcNH3u5IJ1BMq7" : {
+      "id" : "1589638234511",
+      "source" : "1589638234486",
+      "target" : "1589638234509",
+      "type" : "0"
+    },
+    "-M7SrUF9EY8WCXqMCm8G" : {
+      "id" : "1589638234513",
+      "source" : "1589635529307",
+      "target" : "1589638234512",
+      "type" : "0"
+    },
+    "-M7SrVHeKlt2OVofnYRB" : {
+      "id" : "1589638234514",
+      "source" : "1589638234500",
+      "target" : "1589638234512",
+      "type" : "0"
+    },
+    "-M7StA1YIqvFiAeJQ6f4" : {
+      "id" : "1589639177396",
+      "source" : "1589635257683",
+      "target" : "1589639177389",
+      "type" : "0"
+    },
+    "-M7StJlYTVZoBIeW19w7" : {
+      "id" : "1589639177398",
+      "source" : "1589639177389",
+      "target" : "1589639177397",
+      "type" : "0"
+    },
+    "-M7StKqtCEuXRHOQBLBo" : {
+      "id" : "1589639177399",
+      "source" : "1589635529307",
+      "target" : "1589639177397",
+      "type" : "0"
+    }
+  },
+  "tasks" : {
+    "-M7SVJWf_f8_W36jb-6a" : {
+      "duration" : 1,
+      "end_date" : 1585746000000,
+      "id" : "1589632886704",
+      "parent" : 0,
+      "progress" : 0,
+      "start_date" : 1585659600000,
+      "text" : "Foncier",
+      "type" : "project"
+    },
+    "-M7SVTMgrL94QmG9ngRJ" : {
+      "duration" : 0,
+      "end_date" : 1588255200000,
+      "id" : "1589632886713",
+      "parent" : "1589632886704",
+      "progress" : 0,
+      "start_date" : 1588255200000,
+      "text" : "Acquerir le Milloret",
+      "type" : "project"
+    },
+    "-M7San8mQeNh77gx-WKE" : {
+      "duration" : 0,
+      "end_date" : 1588255200000,
+      "id" : "1589634462022",
+      "parent" : "1589632886713",
+      "progress" : 0,
+      "start_date" : 1588255200000,
+      "text" : "Faire une offre",
+      "type" : "milestone"
+    },
+    "-M7SbLQ9MawFz8ROZVTT" : {
+      "duration" : 0,
+      "end_date" : 1590933600000,
+      "id" : "1589634462059",
+      "parent" : "1589632886713",
+      "progress" : 0,
+      "start_date" : 1590933600000,
+      "text" : "Signature du compromis",
+      "type" : "milestone"
+    },
+    "-M7SbyzXkBtgROa8ik_8" : {
+      "duration" : 60,
+      "end_date" : 1596117600000,
+      "id" : "1589634462083",
+      "parent" : "1589632886713",
+      "progress" : 0,
+      "start_date" : 1590933600000,
+      "text" : "Architecte réalise les plans et les données techniques à fournir aux entreprises",
+      "type" : "task"
+    },
+    "-M7SdA-QMAojm1XJt5Ve" : {
+      "duration" : 0,
+      "end_date" : 1601474400000,
+      "id" : "1589635114267",
+      "parent" : "1589632886713",
+      "progress" : 0,
+      "start_date" : 1601474400000,
+      "text" : "Demande officielle du permis de construire",
+      "type" : "milestone"
+    },
+    "-M7SdUtq0_VI0oxg8ETZ" : {
+      "duration" : 0,
+      "end_date" : 1606741200000,
+      "id" : "1589635257683",
+      "parent" : "1589632886713",
+      "progress" : 0,
+      "start_date" : 1606741200000,
+      "text" : "Reponse de l'administration - Mairie",
+      "type" : "milestone"
+    },
+    "-M7SmJ5mf3P9H_-Jefxb" : {
+      "duration" : 15,
+      "end_date" : 1594821600000,
+      "id" : "1589635529228",
+      "parent" : "1589632886713",
+      "progress" : 0,
+      "start_date" : 1593525600000,
+      "text" : "Demande de prêt à la banque ",
+      "type" : "task"
+    },
+    "-M7SmRU7Q40mXRflL2XT" : {
+      "duration" : 45,
+      "end_date" : 1592143200000,
+      "id" : "1589635529235",
+      "parent" : "1589632886713",
+      "progress" : 0,
+      "start_date" : 1588255200000,
+      "text" : "Ecrire les status de la SCI avec le notaire",
+      "type" : "task"
+    },
+    "-M7Smdr7LvuprYmy2nJa" : {
+      "duration" : 0,
+      "end_date" : 1596204000000,
+      "id" : "1589635529237",
+      "parent" : "1589632886713",
+      "progress" : 0,
+      "start_date" : 1596204000000,
+      "text" : "Accord de la banque",
+      "type" : "milestone"
+    },
+    "-M7SmrjodfEU-daspvfE" : {
+      "duration" : 0,
+      "end_date" : 1598882400000,
+      "id" : "1589635529251",
+      "parent" : "1589632886713",
+      "progress" : 0,
+      "start_date" : 1598882400000,
+      "text" : "Dépôt des status de la SCI",
+      "type" : "milestone"
+    },
+    "-M7So0gZcr2afd_oUxnU" : {
+      "duration" : 1,
+      "end_date" : 1588341600000,
+      "id" : "1589635529274",
+      "parent" : 0,
+      "progress" : 0,
+      "start_date" : 1588255200000,
+      "text" : "Agricole",
+      "type" : "project"
+    },
+    "-M7So4GCEssXgVo0t7dn" : {
+      "duration" : 0,
+      "end_date" : 1596981600000,
+      "id" : "1589635529287",
+      "parent" : "1589635529274",
+      "progress" : 0,
+      "start_date" : 1596981600000,
+      "text" : "Non preemption des terres agricoles par la SAFER",
+      "type" : "milestone"
+    },
+    "-M7SoKUFKbiLpT0cJvcv" : {
+      "duration" : 0,
+      "end_date" : 1612875600000,
+      "id" : "1589635529307",
+      "parent" : "1589632886713",
+      "progress" : 0,
+      "start_date" : 1612875600000,
+      "text" : "Finalisation de la vente ",
+      "type" : "milestone"
+    },
+    "-M7Sp7MoZ775gdpb9Qpz" : {
+      "duration" : 0,
+      "end_date" : 1600092000000,
+      "id" : "1589638234440",
+      "parent" : "1589632886713",
+      "progress" : 0,
+      "start_date" : 1600092000000,
+      "text" : "Rendez-vous avec l'architecte conseil",
+      "type" : "milestone"
+    },
+    "-M7SptHNXrjEbQGOveop" : {
+      "duration" : 60,
+      "end_date" : 1611925200000,
+      "id" : "1589638234457",
+      "parent" : "1589632886713",
+      "progress" : 0,
+      "start_date" : 1606741200000,
+      "text" : "Recours des tiers",
+      "type" : "task"
+    },
+    "-M7SqQc21g7uKUdyd4_A" : {
+      "duration" : 150,
+      "end_date" : 1619704800000,
+      "id" : "1589638234473",
+      "parent" : "1589632886704",
+      "progress" : 0,
+      "start_date" : 1606741200000,
+      "text" : "Bati Grange",
+      "type" : "project"
+    },
+    "-M7SqXGBYqlYIfcFL9LD" : {
+      "duration" : 90,
+      "end_date" : 1614517200000,
+      "id" : "1589638234486",
+      "parent" : "1589638234473",
+      "progress" : 0,
+      "start_date" : 1606741200000,
+      "text" : "Devis sur les commandes de materiaux",
+      "type" : "task"
+    },
+    "-M7Sqjq3qFSnxatTtjUX" : {
+      "duration" : 90,
+      "end_date" : 1614517200000,
+      "id" : "1589638234500",
+      "parent" : "1589635529274",
+      "progress" : 0,
+      "start_date" : 1606741200000,
+      "text" : "Devis achat materiel agricole ",
+      "type" : "task"
+    },
+    "-M7SrBqjcsYDj6cS3_nH" : {
+      "duration" : 60,
+      "end_date" : 1619704800000,
+      "id" : "1589638234509",
+      "parent" : "1589638234473",
+      "progress" : 0,
+      "start_date" : 1614517200000,
+      "text" : "Achat et livraison des materiaux",
+      "type" : "task"
+    },
+    "-M7SrT5_WZ-PvzxCTToO" : {
+      "duration" : 60,
+      "end_date" : 1619704800000,
+      "id" : "1589638234512",
+      "parent" : "1589635529274",
+      "progress" : 0,
+      "start_date" : 1614517200000,
+      "text" : "Achat materiel agricole",
+      "type" : "task"
+    },
+    "-M7SsUdMlF5l8Z2LAtrK" : {
+      "duration" : 1,
+      "end_date" : 1606827600000,
+      "id" : "1589639177349",
+      "parent" : "1589638234473",
+      "progress" : 0,
+      "start_date" : 1606741200000,
+      "text" : "Fournil",
+      "type" : "project"
+    },
+    "-M7SswGZkbYHMwctUKxJ" : {
+      "duration" : 1,
+      "end_date" : 1588341600000,
+      "id" : "1589639177376",
+      "parent" : 0,
+      "progress" : 0,
+      "start_date" : 1588255200000,
+      "text" : "Boulangerie",
+      "type" : "project"
+    },
+    "-M7St6iNHVe7FKQylmaV" : {
+      "duration" : 90,
+      "end_date" : 1614517200000,
+      "id" : "1589639177389",
+      "parent" : "1589639177376",
+      "progress" : 0,
+      "start_date" : 1606741200000,
+      "text" : "Devis pour le four et materiel",
+      "type" : "task"
+    },
+    "-M7StHJhNVImTnm-K2yg" : {
+      "duration" : 62,
+      "end_date" : 1619877600000,
+      "id" : "1589639177397",
+      "parent" : "1589639177376",
+      "progress" : 0,
+      "start_date" : 1614517200000,
+      "text" : "Achat Materiel ",
+      "type" : "task"
+    }
+  }
+}
